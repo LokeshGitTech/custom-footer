@@ -26,7 +26,7 @@ const App: React.FC = () => {
   return (
     <div className="container">
       <h1>Your React App</h1>
-      {/* Your main content goes here */}
+      {/* Lokesh Patil */}
       <Footer
         copyrightText={copyrightText}
         showLogo={showLogo}
